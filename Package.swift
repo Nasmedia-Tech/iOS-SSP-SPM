@@ -14,8 +14,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AdMixerBinary",
-            url: "https://github.com/Nasmedia-Tech/iOS-AdMixerDownload/raw/main/AdMixer1.1.2.xcframework.zip",
-            checksum: "d9288faa1168fbd95209e4abc2b6a439008092cc7aa5f022b126479d8e96b3c9"
+            url: "https://github.com/Nasmedia-Tech/iOS-AdMixerDownload/raw/main/AdMixer1.1.3.xcframework.zip",
+            checksum: "7d9dee8b01d1593a5daa3888a497303dc5ac45eabd480620f908b2a0fe2931f9"
         ),
         .target(
             name: "iOS_SSP_SPM",
